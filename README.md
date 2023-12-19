@@ -1,8 +1,10 @@
-# ReactJS_Chat
+# ReactJS_Chat 💬
+
+O ReactJS_Chat é um projeto de estudo de chat desenvolvido com as tecnologias NodeJS, ReactJS e ChatEngine.io. O objetivo principal é criar uma plataforma de comunicação eficiente e fácil de usar.
 
 ## Descrição do Projeto
 
-ReactJS_Chat é um projeto de estudo de chat desenvolvido com Node, ReactJS e ChatEngine.io. Este projeto visa proporcionar uma plataforma de comunicação eficiente e fácil de usar.
+O projeto ReactJS_Chat foi concebido como um estudo prático de chat, empregando as tecnologias mencionadas para criar uma plataforma de comunicação acessível. A utilização do NodeJS no backend e do ReactJS no frontend contribui para a construção de uma aplicação coesa e interativa.
 
 ## Dependências usadas
 
