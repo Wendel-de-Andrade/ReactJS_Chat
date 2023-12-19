@@ -40,6 +40,8 @@ E iniciar o frontend com `npm run dev`
 
 ## Resultado
 
+Video do Youtube abaixo:
+
 [![Demonstração do Projeto](http://img.youtube.com/vi/Ej-L2whHehI/0.jpg)](https://youtu.be/Ej-L2whHehI "Demonstração do Projeto")
 
 ## Licença
